@@ -1,0 +1,10 @@
+num1  =  int ( input ( "Informe um valor:" ))
+num2  =  int ( input ( "Informe outro valor:" ))
+
+imprimir ( "Soma:" , num1 + num2 )
+imprimir ( "Produto:" , num1 * num2 )
+imprimir ( "Subtração:" , num1 - num2 )
+imprimir ( "Divisão:" , num1 / num2 )
+print ( "Divisão Inteira:" , num1 // num2 )
+print ( "Resto da divisão:" , num1 % num2 )
+imprimir ( "POtenciação:" , num1 ** num2 )
